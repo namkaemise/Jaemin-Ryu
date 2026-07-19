@@ -17,20 +17,8 @@ body{
     overflow-x:hidden;
 }
 
-
 /* 표지 */
-
 <img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443852902.jpg" width="90%"></img>
-
-
-/* 배경 */
-
-.body {
-  margin: 0;
-  min-height: 100vh;
-  background-color: #black;
-  color: black;
-}
 
 /* 파티클 */
 .particles{
