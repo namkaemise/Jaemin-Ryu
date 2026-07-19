@@ -141,7 +141,7 @@ CHARACTER PAGE
 
 Each character page should include
 
-Large Cover Image
+<img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443850120.jpg" width="90%"></img>
 
 Character Name
 
