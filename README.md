@@ -59,6 +59,7 @@ without looking overly flashy.
     inset:0;
     pointer-events:none;
 }
+
 .particles span{
     position:absolute;
     width:3px;height:3px;
@@ -67,6 +68,7 @@ without looking overly flashy.
     opacity:0.15;
     animation:float 20s linear infinite;
 }
+
 @keyframes float{
     from{transform:translateY(100vh);}
     to{transform:translateY(-10vh);}
