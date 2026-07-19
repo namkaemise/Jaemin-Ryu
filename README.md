@@ -1,18 +1,9 @@
-Create a complete blog-style character archive website using only HTML, CSS, and Vanilla JavaScript.
-
-The project must be fully compatible with GitHub Pages and should be production-ready.
-
-Generate every required file without omitting any code.
-
-***
 # PROJECT STRUCTURE
-***
 
 <img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443852902.jpg" width="90%"></img>
 
 ***
 # GENERAL REQUIREMENTS
-***
 
 • HTML + CSS + Vanilla JavaScript only.
 • No frameworks.
@@ -27,7 +18,6 @@ The website should be expandable by simply creating additional HTML files inside
 
 ***
 # WEBSITE CONCEPT
-***
 
 This website is a blog-style character archive for Crak AI.
 
@@ -44,7 +34,6 @@ without looking overly flashy.
 
 ***
 # BACKGROUND DESIGN
-***
 
 .body {
   margin: 0;
@@ -76,7 +65,6 @@ without looking overly flashy.
 
 ***
 # COLOR PALETTE
-***
 
 Primary:
 Light Gray
@@ -102,7 +90,6 @@ Avoid neon colors.
 
 ***
 # TYPOGRAPHY
-***
 
 All visible text should use black or dark gray.
 
@@ -114,7 +101,6 @@ Body text should prioritize readability.
 
 ***
 # BLOG STYLE
-***
 
 The homepage should contain
 
@@ -139,7 +125,6 @@ Hover animations should be smooth and elegant.
 
 ***
 # CHARACTER PAGE
-***
 
 Each character page should include
 
@@ -174,7 +159,6 @@ Navigation
 
 ***
 # SIDEBAR
-***
 
 Include
 
@@ -190,7 +174,6 @@ Search
 
 ***
 # CARDS
-***
 
 Use glassmorphism cards.
 
@@ -206,7 +189,6 @@ Premium appearance.
 
 ***
 # ANIMATIONS
-***
 
 Use smooth fade-in animations.
 
@@ -224,7 +206,6 @@ Loading animation.
 
 ***
 # ENVIRONMENTAL EFFECTS
-***
 
 Create subtle animated environmental effects using CSS and HTML5 Canvas.
 
@@ -259,7 +240,6 @@ The atmosphere should resemble
 
 ***
 # VISUAL STYLE
-***
 
 The website should feel
 
@@ -285,7 +265,6 @@ Magazine Layout
 
 ***
 # CONTENT LANGUAGE
-***
 
 IMPORTANT
 
@@ -317,7 +296,6 @@ Everything shown to users.
 
 ***
 # CODE LANGUAGE
-***
 
 Keep
 
@@ -335,14 +313,6 @@ Comments
 
 entirely in English.
 
-***
-# FINAL OUTPUT
-***
-
-Generate every file completely.
-
-Do not skip code.
-
-Do not use placeholders like "continue here."
-
-Generate a complete production-ready GitHub Pages project that is immediately usable.
+    </script>
+</body>
+</html>
