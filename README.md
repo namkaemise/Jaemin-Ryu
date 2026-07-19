@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <title>나를 죽이려는 SSS급 킬러의 상태창이 보인다</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>나를 죽이려는 SSS급 킬러의 상태창이 보인다</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Diphylleia&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+
+body{
+    font-family:'Noto Sans KR',sans-serif;
+    background:	#000000;
+    color:#6495ED;
+    overflow-x:hidden;
+}
+
 
 /* 표지 */
 
