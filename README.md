@@ -141,7 +141,7 @@ CHARACTER PAGE
 
 Each character page should include
 
-<img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443850120.jpg" width="90%"></img>
+<img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784444402162.webp" width="90%"></img>
 
 Character Name
 
