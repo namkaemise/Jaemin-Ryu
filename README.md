@@ -46,22 +46,12 @@ without looking overly flashy.
 BACKGROUND DESIGN
 ------------------------------------------------
 
-The entire website should use a realistic ruined gray concrete wall.
-
-The background should resemble
-
-• abandoned building
-• broken concrete
-• cracked walls
-• weathered textures
-• subtle dirt
-• old cement
-
-Keep the background mostly light gray instead of dark.
-
-Apply a soft overlay so the text remains easy to read.
-
-The background should remain fixed while scrolling.
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #black;
+  color: black;
+}
 
 ------------------------------------------------
 COLOR PALETTE
