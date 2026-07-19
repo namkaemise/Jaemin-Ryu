@@ -12,8 +12,8 @@
 
 body{
     font-family:'Noto Sans KR',sans-serif;
-    background:	#000000;
-    color:#6495ED;
+    background:	gray;
+    color:black;
     overflow-x:hidden;
 }
 
