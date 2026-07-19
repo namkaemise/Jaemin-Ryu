@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443852902.jpg" width="90%"></img>
 
-/ -------------- /*캐릭터 소개*/ -------------- /
+/ ---------------------------- /*캐릭터 소개*/ ---------------------------- /
 # GENERAL REQUIREMENTS
 
 • HTML + CSS + Vanilla JavaScript only.
