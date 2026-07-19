@@ -46,11 +46,30 @@ without looking overly flashy.
 BACKGROUND DESIGN
 ------------------------------------------------
 
-body {
+.body {
   margin: 0;
   min-height: 100vh;
   background-color: #black;
   color: black;
+}
+
+/* 파티클 */
+.particles{
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+}
+.particles span{
+    position:absolute;
+    width:3px;height:3px;
+    background:white;
+    border-radius:50%;
+    opacity:0.15;
+    animation:float 20s linear infinite;
+}
+@keyframes float{
+    from{transform:translateY(100vh);}
+    to{transform:translateY(-10vh);}
 }
 
 ------------------------------------------------
