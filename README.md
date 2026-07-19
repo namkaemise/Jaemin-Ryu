@@ -5,7 +5,7 @@
     <title>나를 죽이려는 SSS급 킬러의 상태창이 보인다</title>
 
 
-# PROJECT STRUCTURE
+/* 제목 */
 
 <img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443852902.jpg" width="90%"></img>
 
@@ -40,7 +40,8 @@ It should combine the feeling of
 without looking overly flashy.
 
 ***
-# BACKGROUND DESIGN
+
+/* 배경 */
 
 .body {
   margin: 0;
