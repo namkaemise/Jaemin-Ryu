@@ -8,16 +8,7 @@ Generate every required file without omitting any code.
 PROJECT STRUCTURE
 ------------------------------------------------
 
-/
-│── index.html
-│── post.html
-│── css/
-│     style.css
-│── js/
-│     main.js
-│── images/
-│── posts/
-│     sample-character.html
+<img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443852902.jpg" width="90%"></img>
 
 ------------------------------------------------
 GENERAL REQUIREMENTS
