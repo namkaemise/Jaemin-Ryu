@@ -4,15 +4,15 @@ The project must be fully compatible with GitHub Pages and should be production-
 
 Generate every required file without omitting any code.
 
-------------------------------------------------
-PROJECT STRUCTURE
-------------------------------------------------
+***
+# PROJECT STRUCTURE
+***
 
 <img src="https://raw.githubusercontent.com/namkaemise/Jaemin-Ryu/refs/heads/main/1784443852902.jpg" width="90%"></img>
 
-------------------------------------------------
-GENERAL REQUIREMENTS
-------------------------------------------------
+***
+# GENERAL REQUIREMENTS
+***
 
 • HTML + CSS + Vanilla JavaScript only.
 • No frameworks.
@@ -25,9 +25,9 @@ GENERAL REQUIREMENTS
 
 The website should be expandable by simply creating additional HTML files inside the posts folder.
 
-------------------------------------------------
-WEBSITE CONCEPT
-------------------------------------------------
+***
+# WEBSITE CONCEPT
+***
 
 This website is a blog-style character archive for Crak AI.
 
@@ -42,9 +42,9 @@ It should combine the feeling of
 
 without looking overly flashy.
 
-------------------------------------------------
-BACKGROUND DESIGN
-------------------------------------------------
+***
+# BACKGROUND DESIGN
+***
 
 .body {
   margin: 0;
@@ -72,9 +72,9 @@ BACKGROUND DESIGN
     to{transform:translateY(-10vh);}
 }
 
-------------------------------------------------
-COLOR PALETTE
-------------------------------------------------
+***
+# COLOR PALETTE
+***
 
 Primary:
 Light Gray
@@ -98,9 +98,9 @@ Avoid colorful gradients.
 
 Avoid neon colors.
 
-------------------------------------------------
-TYPOGRAPHY
-------------------------------------------------
+***
+# TYPOGRAPHY
+***
 
 All visible text should use black or dark gray.
 
@@ -110,9 +110,9 @@ Titles should feel sophisticated.
 
 Body text should prioritize readability.
 
-------------------------------------------------
-BLOG STYLE
-------------------------------------------------
+***
+# BLOG STYLE
+***
 
 The homepage should contain
 
@@ -135,9 +135,9 @@ Each post card should include
 
 Hover animations should be smooth and elegant.
 
-------------------------------------------------
-CHARACTER PAGE
-------------------------------------------------
+***
+# CHARACTER PAGE
+***
 
 Each character page should include
 
@@ -170,9 +170,9 @@ Quotes
 Navigation
 (Previous / Next Character)
 
-------------------------------------------------
-SIDEBAR
-------------------------------------------------
+***
+# SIDEBAR
+***
 
 Include
 
@@ -186,9 +186,9 @@ Tags
 
 Search
 
-------------------------------------------------
-CARDS
-------------------------------------------------
+***
+# CARDS
+***
 
 Use glassmorphism cards.
 
@@ -202,9 +202,9 @@ Soft shadow.
 
 Premium appearance.
 
-------------------------------------------------
-ANIMATIONS
-------------------------------------------------
+***
+# ANIMATIONS
+***
 
 Use smooth fade-in animations.
 
@@ -220,9 +220,9 @@ Back-to-top button.
 
 Loading animation.
 
-------------------------------------------------
-ENVIRONMENTAL EFFECTS
-------------------------------------------------
+***
+# ENVIRONMENTAL EFFECTS
+***
 
 Create subtle animated environmental effects using CSS and HTML5 Canvas.
 
@@ -255,9 +255,9 @@ The atmosphere should resemble
 • post-apocalyptic ambience
 • quiet emotional storytelling
 
-------------------------------------------------
-VISUAL STYLE
-------------------------------------------------
+***
+# VISUAL STYLE
+***
 
 The website should feel
 
@@ -281,9 +281,9 @@ Character Archive
 
 Magazine Layout
 
-------------------------------------------------
-CONTENT LANGUAGE
-------------------------------------------------
+***
+# CONTENT LANGUAGE
+***
 
 IMPORTANT
 
@@ -313,9 +313,9 @@ Navigation
 
 Everything shown to users.
 
-------------------------------------------------
-CODE LANGUAGE
-------------------------------------------------
+***
+# CODE LANGUAGE
+***
 
 Keep
 
@@ -333,9 +333,9 @@ Comments
 
 entirely in English.
 
-------------------------------------------------
-FINAL OUTPUT
-------------------------------------------------
+***
+# FINAL OUTPUT
+***
 
 Generate every file completely.
 
